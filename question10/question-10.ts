@@ -20,7 +20,7 @@ by one on the console using for loop.
 
 */
 
-let friends_names = ['Haris','Zahir','Arif','Shahab'];
+let friends_names = ['Zainab','Khizra','humaira','Khadija'];
 for(let i=0; i<friend_names.length; i++){
   console.log(friends_names[i]);
 }
