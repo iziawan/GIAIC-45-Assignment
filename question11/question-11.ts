@@ -3,7 +3,7 @@
 // element in the list, one at a time.
 
 
-let friend_names = ['Haris','Zahir','Arif','Shahab'];
+let friend_names = ['Zainab','khizra','Humaira','khadija'];
 for(let i=0; i<friend_names.length; i++){
   console.log(friend_names[i]);
 }
