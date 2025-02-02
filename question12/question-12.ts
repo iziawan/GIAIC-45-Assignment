@@ -7,9 +7,9 @@
 
 
 
-let greeting = ['Assalamualikum how are you','How are you doing','Nice to meet you','Best of Luck!'];
+let greeting = ['Assalamualikum how are you','How are you doing','Best of Luck!'];
 
-let MyFriends = ['Haris','Zahir','Arif','Shahab'];
+let MyFriends = ['Zainab','Khizra','Humaira','Khadija'];
 
 for(let friend in MyFriends){
   console.log(`${greeting[friend]} ${MyFriends[friend]}`);
